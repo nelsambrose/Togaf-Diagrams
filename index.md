@@ -37,7 +37,7 @@ It is designed to support architects, analysts, and students who want to underst
 * Includes examples of concerns and viewpoints.
 * Aids in communication planning and governance alignment.
 
-### 5. *(Coming Soon)* Architecture Content Framework
+### 5. **Architecture Content Framework**
 
 **Purpose**: Describes the building blocks of architecture outputs.
 
@@ -79,4 +79,4 @@ MIT License
 
 ---
 
-For the full visual guide, visit the [GitHub Pages site](#) **.
+*Created and maintained by [Nelson Ambrose](https://github.com/nelsambrose). Contributions and feedback welcome.*
