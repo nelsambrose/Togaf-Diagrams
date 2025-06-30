@@ -12,8 +12,9 @@ It is designed to support architects, analysts, and students who want to underst
 
 **Purpose**: Shows the Architecture Development Method (ADM) lifecycle with all phases (Preliminary, A–H, Requirements).
 
-* Visually highlights flow and iteration.
-* Ideal for introducing the entire TOGAF process.
+* Visually highlights flow and iteration.  
+* Ideal for introducing the entire TOGAF process.  
+* [View diagram ›](TOGAF%20ADM%20Cycle%20Diagram.png)
 
 ### 2. **Enterprise Continuum & Architecture Repository**
 
