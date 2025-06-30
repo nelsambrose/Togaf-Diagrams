@@ -14,7 +14,7 @@ It is designed to support architects, analysts, and students who want to underst
 
 * Visually highlights flow and iteration.  
 * Ideal for introducing the entire TOGAF process.  
-* [View diagram ›](TOGAF%20ADM%20Cycle%20Diagram.png)
+* [View man diagram as an example ›](TOGAF%20ADM%20Cycle%20Diagram.png)
 
 ### 2. **Enterprise Continuum & Architecture Repository**
 
@@ -42,6 +42,20 @@ It is designed to support architects, analysts, and students who want to underst
 **Purpose**: Describes the building blocks of architecture outputs.
 
 * Includes deliverables, artifacts, and building blocks (ABBs/SBBs).
+
+### 6. **Architecture Building Blocks vs. Solution Building Blocks**
+
+**Purpose**: Clarify the distinction and relationship between ABBs and SBBs.
+
+* Shows transformation from logical functions to implemented components.
+* Includes real-world examples (e.g., CRM function → Salesforce).
+
+### 7. **Architecture Governance Model**
+
+**Purpose**: Outlines the roles, structure, and responsibilities for managing architectural compliance.
+
+* Defines Architecture Board oversight areas.
+* Includes governance reviews, escalation, metrics, and domains.
 
 ---
 
