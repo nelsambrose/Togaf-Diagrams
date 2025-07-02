@@ -1,6 +1,3 @@
----
-title: TOGAF Diagrams Library
----
 # TOGAF Diagrams Library
 
 This repository contains a curated set of clear and practical visual diagrams that illustrate key concepts, phases, and structures of the TOGAF (The Open Group Architecture Framework) standard.
