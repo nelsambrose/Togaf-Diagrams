@@ -1,6 +1,5 @@
 ---
 title: TOGAF Diagrams Library
-layout: default
 ---
 # TOGAF Diagrams Library
 
