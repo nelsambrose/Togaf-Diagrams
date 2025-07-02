@@ -89,3 +89,19 @@ It is designed to support architects, analysts, and students who want to underst
 * [🔍 View Governance Model Diagram](Architecture%20Governance%20Model.png)
 
 ![Governance structure including compliance reviews and escalation](Architecture%20Governance%20Model.png)
+
+---
+
+## Contribution
+
+Suggestions or corrections are welcome via issues or pull requests.
+
+---
+
+## License
+
+MIT License
+
+---
+
+*Created and maintained by [Nelson Ambrose](https://github.com/nelsambrose). Contributions and feedback welcome.* 
