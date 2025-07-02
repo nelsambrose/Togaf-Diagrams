@@ -1,5 +1,5 @@
 ---
-title: TOGAF Diagrams Library
+---\ntitle: TOGAF Diagrams Library\nlayout: default\n---
 layout: default
 ---
 
